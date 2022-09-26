@@ -1,3 +1,3 @@
 # Password-Generator
 
-More updates on this coming in soon 
+This is a secure and reliable password Generator 
